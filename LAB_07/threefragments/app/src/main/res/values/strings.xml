@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Three Fragments</string>
+    <string name="first_title">Первый фрагмент</string>
+    <string name="second_title">Второй фрагмент</string>
+    <string name="third_title">Третий фрагмент</string>
+    <string name="btn_next">Далее</string>
+    <string name="btn_back">Назад</string>
+</resources>
